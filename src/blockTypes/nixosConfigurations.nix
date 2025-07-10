@@ -1,6 +1,7 @@
 {
   nixpkgs,
   root,
+  self,
 }: let
   inherit
     (root)
